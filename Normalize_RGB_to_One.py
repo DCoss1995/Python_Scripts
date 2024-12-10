@@ -5,7 +5,7 @@ Created on Fri Dec  6 16:11:32 2024
 @author: Wetlab
 """
 """
-Use when you need to normalize the triplets RGB from 255 to 1.
+Use when you need to normalize the RGB triplets from 255 to 1.
 
 """
 
